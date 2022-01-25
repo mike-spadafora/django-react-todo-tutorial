@@ -1,2 +1,2 @@
-release: py manage.py runserver
+release: python manage.py runserver
 web: npm start
